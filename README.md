@@ -10,6 +10,9 @@ This web-based application requires:
 
 * [1D Barcode Bakery Package](https://www.barcodebakery.com/en/1d/php)
 
+In case you don't purchase the above 1D Barcode Bakery Package for your server and use your own barcode library to procedure the scannale barcode in lending slip, change the code in print.php: 
+        
+
 ## Maintainers/Sponsors
 
 Current maintainers:
