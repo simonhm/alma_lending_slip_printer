@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This web-based lending slip printer allows library staff to select the lending slip reports (XML files) and print them.
+This web-based lending slip printer allows library staff to select the lending slip reports (XML report files downloading from ALMA) and print them.
 
 ## Requirements
 
