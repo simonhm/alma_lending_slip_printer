@@ -81,10 +81,7 @@ function Validate(oForm) {
  
 ?>
 
-            <!-- To configure the contact form email address, go to mail/contact_me.php and update the email address in the PHP file on line 19. -->
-            <!-- The form should work on most web servers, but if the form is not working you may need to configure your web server differently. -->
             <form name="sentMessage" id="contactForm" action=process.php method="POST" enctype="multipart/form-data" onsubmit="return Validate(this);">
-
               <div class="control-group">
                 <div class="form-group floating-label-form-group controls mb-0 pb-2">
                   <label>Choose a XML lending report file to print:</label>
@@ -106,10 +103,5 @@ function Validate(oForm) {
         </div>
       </div>
     </section>
-
-
-
-
-  </body>
-
+ </body>
 </html>
